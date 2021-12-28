@@ -1,1 +1,2 @@
-
+local fuckoff = "Fuck off"
+print(fuckoff)
